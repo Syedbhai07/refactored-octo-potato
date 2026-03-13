@@ -22,3 +22,6 @@ rad.json
 TestResults.xml
 #Generated output files
 *_jio_numbers.csv
+#Python cache
+__pycache__/
+*.pyc
